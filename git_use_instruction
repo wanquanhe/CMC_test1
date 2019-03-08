@@ -3,4 +3,9 @@ git is a free software
 git has a mutable index called stage
 git tracks change of file
 a new branch will work when we modify a file and  add it and commit it
-creat a branch is quick & simple
+<<<<<<< HEAD
+creat a branch is quick AND simple
+=======
+creat a new branch is quick and simple
+
+>>>>>>> w_feature
