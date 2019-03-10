@@ -4,3 +4,4 @@ git has a mutable index called stage
 git tracks change of file
 a new branch will work when we modify a file and  add it and commit it
 creat a branch is quick AND simple
+who knows this is a error
